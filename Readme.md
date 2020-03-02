@@ -1,0 +1,1 @@
+This CV is not responsive so it may no look that good in other screens. It is designed to be printed on pdf.
